@@ -1,13 +1,13 @@
 ---
-category: 框架与工具
+category: 框架与构建
 icon: widget
 items:
-  - name: Flutter
-    level: 5
+  - name: Vue
+    level: 4
   - name: React
     level: 4
-  - name: Git
+  - name: Vite
     level: 5
-  - name: Docker
+  - name: Pinia / State
     level: 3
 ---
