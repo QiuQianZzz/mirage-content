@@ -7,5 +7,5 @@ items:
   - name: TypeScript
     level: 5
   - name: HTML / CSS
-    level: 4
+    level: 5
 ---
